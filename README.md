@@ -27,7 +27,7 @@ Hands-on Cybersecurity Research & Practice
 Educational & defensive security research.
 
 ## Disclaimer
-All testing must be conducted in controlled environments with explicit authorization.
+⚠ All testing must be conducted in controlled environments with explicit authorization. ⚠ 
 
 ## Philosophy
 Understanding vulnerabilities is the foundation of building secure systems.
