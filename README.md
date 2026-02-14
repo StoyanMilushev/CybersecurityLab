@@ -3,7 +3,8 @@
 
 ![Focus](https://img.shields.io/badge/focus-cybersecurity-red)
 ![Purpose](https://img.shields.io/badge/purpose-educational-blue)
-![Lab](https://img.shields.io/badge/type-security%20lab-black)
+![Lab](https://img.shields.io/badge/type-security%20lab-2563eb)
+
 
 Hands-on cybersecurity research repository focused on vulnerability simulations...
 
