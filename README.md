@@ -16,3 +16,7 @@ Educational & defensive security research.
 ## Disclaimer
 For authorized testing only.
 
+## Philosophy
+Understanding vulnerabilities is the foundation of building secure systems.
+This lab exists to explore weaknesses in controlled environments in order to design stronger defenses.
+
