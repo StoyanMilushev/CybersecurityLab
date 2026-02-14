@@ -1,3 +1,13 @@
+
+# CyberSecurityLab
+
+![Focus](https://img.shields.io/badge/focus-cybersecurity-red)
+![Purpose](https://img.shields.io/badge/purpose-educational-blue)
+![Lab](https://img.shields.io/badge/type-security%20lab-black)
+
+Hands-on cybersecurity research repository focused on vulnerability simulations...
+
+
 Security research repository with hands-on vulnerability simulations, secure coding experiments, and penetration testing concepts.
 
 ⚠ All projects are created for educational and defensive security purposes only.
