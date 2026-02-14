@@ -3,7 +3,8 @@
 
 ![Focus](https://img.shields.io/badge/focus-cybersecurity-red)
 ![Purpose](https://img.shields.io/badge/purpose-educational-blue)
-![Lab](https://img.shields.io/badge/type-security%20lab-d4af37)
+![Lab](https://img.shields.io/badge/type-security%20lab-0f766e)
+
 
 
 
