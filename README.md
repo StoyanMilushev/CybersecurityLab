@@ -1,5 +1,3 @@
-# CybersecurityLab
-
 Security research repository with hands - on vulnerability simulations, secure coding experiments, and penetration testing concepts.
 
 ⚠ All projects are created for educational and defensive security purposes only.
